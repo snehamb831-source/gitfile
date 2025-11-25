@@ -1,0 +1,2 @@
+write command to merge feature branch to master branch
+im merging feature branch with master
